@@ -1,0 +1,116 @@
+#wpbody-content {
+	width: 98%;
+}
+
+.postbox-container, .meta-box-sortables, .postbox.options-postbox{
+	height: auto;
+}
+
+.inside {
+	width: 98%;
+	display: inline-block;
+	text-align: center;
+}
+
+
+.button-danger {
+	background: #737373	 !important;
+    border-color: #4A4A4A #4D4D4D #4D4D4D !important;
+    -webkit-box-shadow: 0 1px 0 #4D4D4D;
+    box-shadow: 0 1px 0 #4D4D4D;
+    color: #fff !important;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #4D4D4D, 1px 0 1px #4D4D4D, 0 1px 1px #4D4D4D, -1px 0 1px #4D4D4D;
+}
+
+.button-danger:hover {
+	background: #7D7D7D !important;
+}
+
+.button-action{
+	background: #0085ba;
+    border-color: #0073aa #006799 #006799;
+    -webkit-box-shadow: 0 1px 0 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+.button-action:hover {
+	background: #4186D3 !important;
+}
+
+.my-button {
+	width: 100px;
+	margin: 10px 10px 0 10px !important;
+	display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    line-height: 26px;
+    height: 28px;
+    margin: 0;
+    padding: 0 10px 1px;
+    cursor: pointer;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-appearance: none;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    white-space: nowrap;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.block .head{
+	display: inline-block;
+	width: 100%;
+}
+
+
+.wp-heading-inline{
+	display: inline-block;
+	width: 50%;
+}
+
+
+.block-button {
+	display: inline-block;
+	width: 98%;
+	text-align: center;
+}
+
+.notification{
+	display: block;
+	text-align: center;
+}
+
+.input-table textarea{
+	height: 100px;
+}
+
+#wpfooter {
+	display: none;
+}
+
+.table-sett {
+	width: 60%;
+	margin-left: 20%;
+}
+
+.wp-heading-inline {
+	width: 100%;
+}
+
+.lbl-xml {
+	padding-right: 15px;
+}
+
+.log-txt-zeroing, .log-txt-unfound {
+	display: none;
+	width: 30%;
+	text-align: left;
+	vertical-align: top;
+	margin: 10px 5%;
+}
